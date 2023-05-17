@@ -31,7 +31,7 @@
   <!-- <script src="https://fastly.jsdelivr.net/npm/marked/marked.min.js"></script> -->
   <script type="application/javascript">
 
-    var repo = "wjz304/Redpill_CustomBuild";
+    var repo = "uwang/Redpill_CustomBuild";
     var rlRepo = "wjz304/redpill-load"
     var rpRepo = "wjz304/rp-ext"
 
@@ -118,7 +118,7 @@
     };
 
     function init() {
-      httpGetAsync(proxyUrl(repo) + "main/docs/parameter.json" + "?" + Math.random(), function (result) {
+      httpGetAsync(proxyUrl(repo) + "own/docs/parameter.json" + "?" + Math.random(), function (result) {
         _parameters = JSON.parse(result);
         httpGetAsync(proxyUrl(rlRepo) + "main/config/configs.json" + "?" + Math.random(), function (result) {
           _configs = JSON.parse(result);

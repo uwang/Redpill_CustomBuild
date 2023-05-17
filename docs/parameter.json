@@ -110,7 +110,7 @@
         "detailedinfo": "请输入序列号.",
         "required": false,
         "default": "",
-        "type": "none"
+        "type": "string"
     },
     "mac": {
         "name": "mac",
@@ -118,7 +118,7 @@
         "detailedinfo": "请输入MAC地址.",
         "required": false,
         "default": "",
-        "type": "none"
+        "type": "string"
     },
     "netif_num": {
         "name": "netif_num",

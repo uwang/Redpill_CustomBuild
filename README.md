@@ -20,7 +20,7 @@
 ## 链接
 ***如果没有魔法，请参考 https://github.com/wjz304/hosts 设置hosts***  
 ***请使用 Chromium 内核浏览器 (Chrome / Edge / 360极速 ...)***  
-[【👉快速创建】](https://wjz304.github.io/Redpill_CustomBuild/Issues.html)   
+[【👉快速创建】](https://uwang.github.io/Redpill_CustomBuild/Issues.html)   
 `并发较多时, 有概率出现curl错误或者 未触发编译的情况, 过几分钟再试...`  
 `如果你看不懂, 或者其他疑难杂症, 请不要浪费时间. 尝试使用arpl构建. https://github.com/wjz304/arpl-i18n`
 
